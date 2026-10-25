@@ -1,9 +1,10 @@
-DOMAIN,checkip.amazonaws.com
-DOMAIN,www.cloudflare.com
-DOMAIN,whatismyip.akamai.com
-DOMAIN,api.ipify.org
-DOMAIN-SUFFIX,geojs.io
-DOMAIN,free.freeipapi.com
-DOMAIN-SUFFIX,reallyfreegeoip.org
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN,cdn.geospoof.com
+payload:
+  - DOMAIN,checkip.amazonaws.com
+  - DOMAIN,www.cloudflare.com
+  - DOMAIN,whatismyip.akamai.com
+  - DOMAIN,api.ipify.org
+  - DOMAIN-SUFFIX,geojs.io
+  - DOMAIN,free.freeipapi.com
+  - DOMAIN-SUFFIX,reallyfreegeoip.org
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN,cdn.geospoof.com
